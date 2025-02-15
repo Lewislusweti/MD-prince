@@ -1,7 +1,7 @@
 {
-  "name": "prince-md",
+  "name": "lewi-md",
   "version": "1.0.0",
-  "description": "Multi device wa bot created by prince Bot Inc.",
+  "description": "Multi device wa bot created by lewi Bot Inc.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
